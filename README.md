@@ -172,6 +172,6 @@ Ingredient-based alternatives
 ## 🌐 Live URLs
 
 * **BACKEND URL:** https://unthinkable-backend-seven.vercel.app/ 
-* **FRONTEND URL:**  https://unthinkable-chaitanay-22bit0001.vercel.app/
+* **FRONTEND URL:**  https://smart-recipegenerator.vercel.app/
 
 
