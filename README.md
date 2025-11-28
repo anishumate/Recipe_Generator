@@ -139,6 +139,16 @@ The entire project was designed to be **easily extensible**, with *clean documen
 * Go to **Suggestions** tab for recommendations
 * Suggestion logic: Based on your favorite recipes and ratings
 
+### 6. Image-Based Recipe Discovery
+* **Prerequisite:** Upload a clear image of any food item or dish.
+* Go to the **Image Suggestions** section under the Suggestions tab.
+* Suggestion Logic: The system identifies the dish or key ingredients from your uploaded image and generates:
+Possible recipe matches
+Similar dishes you may enjoy
+Cooking style recommendations
+Ingredient-based alternatives
+
+
 ---
 
 ## 💡 Quick Tips
